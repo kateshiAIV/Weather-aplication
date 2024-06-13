@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">wApp</string>
+    <string name="location">Location</string>
+    <string name="updated_at">updated at</string>
+    <string name="status">status</string>
+    <string name="temp">temp</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+    <string name="something_went_wrong">something went wrong</string>
+    <string name="ivan">Ivan</string>
+    <string name="created_by">Created by</string>
+    <string name="time">time</string>
+    <string name="humidity">humidity</string>
+    <string name="pressure">pressure</string>
+    <string name="wind">wind</string>
+    <string name="sunset">sunset</string>
+    <string name="sunrise">Sunrise</string>
+</resources>
